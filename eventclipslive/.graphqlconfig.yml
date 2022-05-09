@@ -1,0 +1,12 @@
+projects:
+  eventclips:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - eventclipsflow
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: typescript
+        generatedFileName: ec1
+        docsFilePath: .

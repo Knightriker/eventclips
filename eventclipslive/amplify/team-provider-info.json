@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eventclips-dev-183538-authRole",
+      "UnauthRoleArn": "arn:aws:iam::815672430650:role/amplify-eventclips-dev-183538-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::815672430650:role/amplify-eventclips-dev-183538-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-eventclips-dev-183538-deployment",
+      "UnauthRoleName": "amplify-eventclips-dev-183538-unauthRole",
+      "StackName": "amplify-eventclips-dev-183538",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:815672430650:stack/amplify-eventclips-dev-183538/0854f6a0-ceae-11ec-9f32-0a1462f9996a",
+      "AmplifyAppId": "d2ni8thi9dj5tb"
+    },
+    "categories": {
+      "auth": {
+        "eventclips66e8223c": {}
+      }
+    }
+  }
+}
